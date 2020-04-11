@@ -5,8 +5,8 @@ A text to speech Artificial Intelligence that uses  FreeTTS
 run with java -jar SpeechAI.jar
 
 ##Features
-# Can output any text to speech
-# Can answser questions
-# Plays songs
-# Tells jokes
-# Other cool easter eggs
+1. Can output any text to speech
+2. Can answser questions
+3. Plays songs
+4. Tells jokes
+5. Other cool easter eggs
