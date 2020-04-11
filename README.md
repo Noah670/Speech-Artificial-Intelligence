@@ -1,5 +1,5 @@
 # Speech-Artificial-Intellgiecne
-A text to speech Artificial Intelligence that uses  FreeTTS 
+A text to speech Artificial Intelligence that uses  FreeTTS open source speech synthesis system library.
 
 ## Usage
 run with java -jar SpeechAI.jar
