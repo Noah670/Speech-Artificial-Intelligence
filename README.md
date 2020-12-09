@@ -2,6 +2,9 @@
 A text to speech Artificial Intelligence that uses  FreeTTS open source speech synthesis system library.
 
 ## Usage
+
+Requires [Java 8+](https://www.java.com/en/download/)
+
 run with java -jar SpeechAI.jar
 
 ## Features
